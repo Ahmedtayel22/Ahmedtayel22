@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Tayel</h1>
 <h3 align="center">A passionate Digital IC Designer</h3>
+
+  ![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/Ahmedtayel22/Ahmedtayel22/assets/105231666/9a112c76-75aa-4fc9-9cfd-124842e7b449)
+
 - 📫 How to reach me **ahmedtayel610@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1o4XQ7i5KMacXh_1E0GQ5gkyg6KVO4avB/view?usp=sharing](https://drive.google.com/file/d/1o4XQ7i5KMacXh_1E0GQ5gkyg6KVO4avB/view?usp=sharing)
